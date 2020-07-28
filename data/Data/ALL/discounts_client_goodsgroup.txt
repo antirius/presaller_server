@@ -1,0 +1,8 @@
+# Delete - */Insert - 1/Update - 2;ClientID;GoodGroupID;Discount%;Distributor
+# Delete all
+*;*
+#Insert Data
+1;0001;0001;2;;
+1;0001;0002;10;;
+1;0002;0001;5;;
+1;0006;0002;15;;

@@ -1,0 +1,8 @@
+# Delete all - */Insert - 1;ID;GoodID;units_of_measurement;Barcode;rate
+# Delete all
+*;*
+#Insert Data
+1;0001;0001;0001;4601546069634;2
+1;0002;0453;0002;4601546053091;12.5
+1;0003;0456;0001;5028695104754;1
+1;0003;0455;0001;65433243;1

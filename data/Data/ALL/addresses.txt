@@ -1,0 +1,9 @@
+# Delete all - */Insert - 1;ID;ClientID;Name;Adress;IndividualPrice
+# Delete all
+*;*
+#Insert Data
+1;0001;0001;2-25, Lenin St. Moscow, Russia;2-25, Lenin St. Moscow, Russia;001
+1;0002;0002;Deutsches Rotes Kreuz,Carstennstrasse, 58D-12205 Berlin;Deutsches Rotes Kreuz,Carstennstrasse, 58D-12205 Berlin;001
+1;0003;0003;Bogatyrskij prospekt d. 53, korpus 3 Kiev;Bogatyrskij prospekt d. 53, korpus 3 Kiev;002
+1;0004;0004;Sverdlova St, 9th floor Murmansk;3 Sverdlova St, 9th floor Murmansk
+1;0435;0007;Основная торговая точка;РТ, Набережные Челны, Ленина 10;

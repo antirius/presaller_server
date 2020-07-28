@@ -1,0 +1,4 @@
+# Delete all - */Insert - 1;ID;OrderID;StatusDate (yyyy/MM/dd HH:mm:ss);StatusID;Comment;Distributor;
+#OrderStatus
+*;*
+2;4A2376C1-24A3-4768-B32E-494F6A27C001;c1bbcb9c-6af6-411a-85df-43bd5d3679d4;2012/09/20 00:01:13;010;OK;test;

@@ -1,0 +1,7 @@
+# Delete all - */Insert - 1;ID;Name;ShowInList
+# Delete all
+*;*
+#Insert Data
+1;0001;Special Price;1;
+1;0002;For All;1;
+1;0003;For All;0;

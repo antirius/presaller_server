@@ -1,0 +1,10 @@
+# Delete - */Insert - 1/Update - 2;ID;Name;Manufacturer ID/*-all;Group ID;units_of_measurement ID;URL;ManufacturerCode;Distributor;UnitID
+# Delete all
+*;*
+#Insert Data
+1;0001;Iron 200;0002;0002;0001;http://antirius.org
+1;0002;Iron 250;0002;0002;0001;http://antirius.org
+1;0456;Aircraft Boign 200;0001;0001;0001;http://ant-tr.com/index.php?productID=782
+1;0455;Aircraft An 100;0002;0001;0001;
+1;0453;Картофель;0002;0002;0001;http://antirius.org;;;0002
+1;0554;Potatoes 045;0002;0002;0001;http://antirius.org
