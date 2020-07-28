@@ -37,11 +37,9 @@ function afterConnect() {
 
         setTimeout(function () {
             console.error("Закрываем приложение принудительно по таймауту...");
-            process.exit(0); //все равно 0, а не ошибка(1), т.к. вышел же :-)
+            process.exit(0);
         }, 30 * 1000);
     });
-
-    // router_client.connect();
 }
 
 afterConnect();

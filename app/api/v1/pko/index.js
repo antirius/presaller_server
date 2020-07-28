@@ -28,10 +28,6 @@ module.exports = function (app, current_route) {
         }
 
         if (!req.file) {
-            // res.status(400).json({
-            //   code: 400,
-            //   message: 'File not found',
-            // });
             res.json({
                 code: 0,
                 result: 'OK',
